@@ -6,3 +6,4 @@ Git is a powerful version control system widely used in software development and
 5. Open Source and Free: Git is free and open-source, making it accessible to developers and organizations of all sizes. 
 6. Integration and Tools: It integrates with platforms like GitHub, GitLab, and Bitbucket, facilitating code sharing, reviews, and deployment. 
 By using Git, teams can enhance productivity, maintain code quality, and ensure seamless project management. 
+7)Use git branch to create branches, git checkout to switch branches, and git merge to integrate changes. 
